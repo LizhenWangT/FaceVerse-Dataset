@@ -2,6 +2,8 @@
 ### FaceVerse: a Fine-grained and Detail-controllable 3D Face Morphable Model from a Hybrid Dataset
 Lizhen Wang, Zhiyuan Chen, Tao Yu, Chenguang Ma, Liang Li, Yebin Liu  CVPR 2022
 
+[[Code]](https://github.com/LizhenWangT/FaceVerse)
+
 ![teaser](./faceverse.jpg)
 
 NOTE: For privacy protection, please blur the eyes if the images or the models appear in any materials that will be published (such as paper, video, poster, etc.)
