@@ -1,4 +1,4 @@
-# FaceVerse-Dataset
+# FaceVerse-High Quality 3D Face Dataset 
 ### FaceVerse: a Fine-grained and Detail-controllable 3D Face Morphable Model from a Hybrid Dataset
 Lizhen Wang, Zhiyuan Chen, Tao Yu, Chenguang Ma, Liang Li, Yebin Liu  CVPR 2022
 
@@ -25,8 +25,10 @@ By requesting for the link, you acknowledge that you have read the agreement, un
 
 
 ### Data Explanation
-THuman2.0 Dataset contains 2,688 high-quality head scans (21 expressions from 128 identities) captured by a dense DLSR rig.
+FaceVerse-High Quality 3D Face Dataset contains 2,688 high-quality head scans (21 expressions from 128 identities) captured by a dense DLSR rig.
 For each scan, we provide the 3D model (.obj), the corresponding texture map (.jpeg) and the FaceVerse fitted model (.ply) with the same topology.
+
+NOTE: For privacy protection, we only release the high quality dataset and the large scale coarse dataset will not be released.
 
 ### Citation
 If you use this dataset for your research, please consider citing:
