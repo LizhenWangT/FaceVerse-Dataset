@@ -25,7 +25,7 @@ By requesting for the link, you acknowledge that you have read the agreement, un
 
 
 ### Data Explanation
-THuman2.0 Dataset contains 2,688 high-quality head scans (21 expressions from 128 identities) captured by a dense DLSR rig.
+FaceVerse Dataset contains 2,688 high-quality head scans (21 expressions from 128 identities) captured by a dense DLSR rig.
 For each scan, we provide the 3D model (.obj), the corresponding texture map (.jpeg) and the FaceVerse fitted model (.ply) with the same topology.
 
 ### Citation
