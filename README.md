@@ -21,7 +21,7 @@ NOTE: For privacy protection, please blur the eyes if the images or the models a
 ### Download Instructions 
 The dataset is encrypted to prevent unauthorized access.
 
-Please fill the [request form](./FaceVerse_Agreement.pdf) and send it to Yebin Liu (liuyebin@mail.tsinghua.edu.cn) and cc Lizhen Wang (wlz18@mails.tsinghua.edu.cn) to request the download link. 
+Please fill the [request form](./FaceVerse_Agreement.pdf) and send it to Yebin Liu (liuyebin@mail.tsinghua.edu.cn) and cc Lizhen Wang (wlz18@mails.tsinghua.edu.cn) to request the download link. The agreement should be signed by a full-time academic staff member (not a student) and sent through your academic email.
 
 By requesting for the link, you acknowledge that you have read the agreement, understand it, and agree to be bound by them. If you do not agree with these terms and conditions, you must not download and/or use the Dataset.
 
