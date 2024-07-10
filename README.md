@@ -24,7 +24,7 @@ The dataset is encrypted to prevent unauthorized access.
 Please fill the [request form](./FaceVerse_Agreement.pdf) and send it to 
 ```
 Yebin Liu (liuyebin@mail.tsinghua.edu.cn)
-cc Lizhen Wang (wang-lz@mail.tsinghua.edu.cn) 
+cc Lizhen Wang (wanglz14@126.com) 
 ```
 to request the download link. The agreement should be signed by **a full-time academic staff member** (not a student) and sent through your academic email.
 
@@ -50,5 +50,5 @@ year={2022},
 ```
 
 ### Contact
-- Lizhen Wang [(wlz18@mails.tsinghua.edu.cn)](wlz18@mails.tsinghua.edu.cn)
+- Lizhen Wang [(wanglz14@126.com)](wanglz14@126.com)
 - Yebin Liu [(liuyebin@mail.tsinghua.edu.cn)](mailto:liuyebin@mail.tsinghua.edu.cn)
